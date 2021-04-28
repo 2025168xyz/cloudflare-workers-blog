@@ -15167,11 +15167,11 @@ body {
 	margin-top:20px
 }
 .el-boxed .main,.el-boxed .main-archive {
-	width:860px
+	width:100%
 }
 @media(max-width:1239px) {
 	.el-boxed .main,.el-boxed .main-archive {
-	width:684px
+	width:100%
 }
 }@media(max-width:991px) {
 	.el-boxed .main,.el-boxed .main-archive {
